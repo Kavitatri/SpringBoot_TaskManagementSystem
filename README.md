@@ -2,6 +2,7 @@
 🚀 Project Overview
 The Task Management Application is a simple web application that allows users to manage tasks in a to-do list format. Users can perform CRUD (Create, Read, Update, Delete) operations on tasks, which include attributes like task name, description, due date, and status.
 
+
 🛠 Tech Stack:
 🎨 Frontend: Angular, Bootstrap
 🖥 Backend: Spring Boot, Spring Data JPA
